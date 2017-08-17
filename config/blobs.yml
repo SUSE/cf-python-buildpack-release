@@ -1,5 +1,5 @@
 ---
-python-buildpack/python_buildpack-cached-v1.5.16-d449bbf.zip:
-  object_id: python_buildpack-cached-v1.5.16-d449bbf.zip
-  sha: d449bbfce4c267c311346f30cec3fd13444b8b49
-  size: 338981349
+python-buildpack/python_buildpack-cached-v1.5.19-a736bb4.zip:
+  object_id: python_buildpack-cached-v1.5.19-a736bb4.zip
+  sha: a736bb49b67a1d05b5dd4f3e67edf98efb27bb65
+  size: 237303376
