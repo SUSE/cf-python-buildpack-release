@@ -1,6 +1,8 @@
 builds:
   844349d8-d80d-4102-540f-fdbac07e41ed:
     version: 1.6.23.1
+  c939ba45-9d02-4872-785f-461c8e58049c:
+    version: 1.6.24.1
   edca2ba0-c880-4968-6239-6ec4f5b6c087:
     version: 1.6.21.1
 format-version: "2"
