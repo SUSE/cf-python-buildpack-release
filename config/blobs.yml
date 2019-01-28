@@ -1,5 +1,5 @@
 ---
-python-buildpack/python_buildpack-v1.6.24.1-1.1-7f3e6618.zip:
-  size: 4752974
-  object_id: python_buildpack-v1.6.24.1-1.1-7f3e6618.zip
-  sha: 7f3e661804ab0ceaf9a8acbc78ffd6a9547a5559
+python-buildpack/python-buildpack-v1.6.27.1-3.1-47cfb637.zip:
+  size: 4766618
+  object_id: python-buildpack-v1.6.27.1-3.1-47cfb637.zip
+  sha: 47cfb6377880c1beb292c22046ba8f3ab01eef01
