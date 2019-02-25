@@ -1,5 +1,5 @@
 ---
-python-buildpack/python-buildpack-v1.6.28.1-5.1-fc7c6245.zip:
-  size: 4766388
-  object_id: python-buildpack-v1.6.28.1-5.1-fc7c6245.zip
-  sha: fc7c62457275eb6a6113891e85da05ed7366045b
+python-buildpack/python-buildpack-v1.6.28.2-1.1-7fe00d3b.zip:
+  size: 4766384
+  object_id: python-buildpack-v1.6.28.2-1.1-7fe00d3b.zip
+  sha: 7fe00d3b2a9941a5450fd0f574b68ff5f92f2433
