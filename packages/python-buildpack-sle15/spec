@@ -1,0 +1,4 @@
+---
+name: python-buildpack-sle15
+files:
+- python-buildpack/python-buildpack-sle15-*.zip

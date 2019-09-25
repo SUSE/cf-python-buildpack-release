@@ -3,6 +3,7 @@ name: python-buildpack
 templates: {}
 
 packages:
-- python-buildpack
+- python-buildpack-sle12
+- python-buildpack-sle15
 
 properties: {}

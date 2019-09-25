@@ -1,0 +1,4 @@
+---
+name: python-buildpack-sle12
+files:
+- python-buildpack/python-buildpack-sle12-*.zip
