@@ -1,2 +1,0 @@
-    set -e -x
-    cp python-buildpack/python-buildpack-sle12-*.zip ${BOSH_INSTALL_TARGET}
