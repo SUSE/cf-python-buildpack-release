@@ -1,5 +1,5 @@
 ---
-python-buildpack/python-buildpack-v1.6.36.1-1.1-4c0057b7.zip:
-  size: 4772643
-  object_id: python-buildpack-v1.6.36.1-1.1-4c0057b7.zip
-  sha: 4c0057b70f4301a130670021bb499ce8e8632e21
+python-buildpack/python-buildpack-sle15-v1.6.37.1-1.1-be815ed1.zip:
+  size: 4770829
+  object_id: python-buildpack-sle15-v1.6.37.1-1.1-be815ed1.zip
+  sha: sha256:be815ed1679ce2aa22a997bdbe98d39ef566c6fa2526caccc181ccedf7d723b0
