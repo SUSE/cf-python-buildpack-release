@@ -1,4 +1,6 @@
 builds:
   c42aa2a5-b1f6-40a2-44c9-c4d3f201888a:
     version: 1.6.37.1
+  d4c7767d-7244-42f3-51cd-221bb8fb141a:
+    version: 1.6.37.2
 format-version: "2"
