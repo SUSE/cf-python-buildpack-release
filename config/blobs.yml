@@ -1,5 +1,5 @@
 ---
-python-buildpack/python-buildpack-sle15-v1.7.2.1-1.1-5c2558e2.zip:
-  size: 4775171
-  object_id: python-buildpack-sle15-v1.7.2.1-1.1-5c2558e2.zip
-  sha: sha256:5c2558e21d48e79ebe74991d77d31511ed553a7bf7e962f669e9d5f968b7f7c3
+python-buildpack/python-buildpack-sle15-v1.7.3.1-1.1-1ed2100d.zip:
+  size: 4775198
+  object_id: python-buildpack-sle15-v1.7.3.1-1.1-1ed2100d.zip
+  sha: sha256:1ed2100d177ee17c04231296620361e9abd8e16d798a55eeea8b8cbc7f7ac858
