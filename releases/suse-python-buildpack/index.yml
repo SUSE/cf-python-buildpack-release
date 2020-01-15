@@ -5,6 +5,8 @@ builds:
     version: 1.7.4.1
   a523d160-64af-4efa-58d6-70f137cf716b:
     version: 1.7.3.1
+  b724a786-8235-4dd3-6d00-cd2709db1807:
+    version: 1.7.5.1
   c42aa2a5-b1f6-40a2-44c9-c4d3f201888a:
     version: 1.6.37.1
   d4c7767d-7244-42f3-51cd-221bb8fb141a:
