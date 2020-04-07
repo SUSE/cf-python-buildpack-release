@@ -1,0 +1,21 @@
+name: suse-python-buildpack
+version: 1.7.12.1
+commit_hash: e82b884
+uncommitted_changes: false
+jobs:
+- name: suse-python-buildpack
+  version: e4b13541655029eaebdf5beb25d24c36cb66090ecdfd623eaa538dd4ef9bdd5d
+  fingerprint: e4b13541655029eaebdf5beb25d24c36cb66090ecdfd623eaa538dd4ef9bdd5d
+  sha1: sha256:da262560678fe08b6c87adf1cfd96fcdc89c4f81888a3cc31342ba0c56be8061
+  packages:
+  - python-buildpack-sle15
+packages:
+- name: python-buildpack-sle15
+  version: e0d574e99216274709998edc263d011ad0d1e93783b6b7dc086103199372f66e
+  fingerprint: e0d574e99216274709998edc263d011ad0d1e93783b6b7dc086103199372f66e
+  sha1: sha256:6fbdf336fd244e88bbc446278e841af82ebba04bc9bdadddd0a347b8308489f8
+  dependencies: []
+license:
+  version: db4c77b7cef4888832a6e02de3f2f336a0aaa186eaaa5fb9ad84631ce64a1063
+  fingerprint: db4c77b7cef4888832a6e02de3f2f336a0aaa186eaaa5fb9ad84631ce64a1063
+  sha1: sha256:c8d6bbd1760aad16b0f56ed6f904a905bd25d384bcf26ef509569b5fd55e622f
