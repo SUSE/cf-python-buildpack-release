@@ -19,6 +19,8 @@ builds:
     version: 1.6.37.1
   cc5d82c4-9312-48c8-6674-48f82051ab92:
     version: 1.7.20.1
+  d13f7adc-77ce-4931-74eb-9f4d0305a050:
+    version: 1.7.22.1
   d4c7767d-7244-42f3-51cd-221bb8fb141a:
     version: 1.6.37.2
   de584e67-b386-48ec-7935-25b3de31ea3f:
